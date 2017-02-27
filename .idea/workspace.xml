@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb146a6-a779-47d5-9607-83384fdfc7ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lanou/MianClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lanou/MianClass.java" afterPath="$PROJECT_DIR$/src/lanou/MianClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +21,12 @@
       <file leaf-file-name="MianClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lanou/MianClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="152">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -506,12 +509,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488196242121</updated>
       <workItem from="1488196244442" duration="30000" />
-      <workItem from="1488196316498" duration="67000" />
+      <workItem from="1488196316498" duration="212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97000" />
+    <option name="totallyTimeSpent" value="242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
@@ -560,9 +563,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lanou/MianClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
