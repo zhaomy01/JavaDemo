@@ -22,10 +22,10 @@
         <entry file="file://$PROJECT_DIR$/src/lanou/MianClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -509,12 +509,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488196242121</updated>
       <workItem from="1488196244442" duration="30000" />
-      <workItem from="1488196316498" duration="212000" />
+      <workItem from="1488196316498" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242000" />
+    <option name="totallyTimeSpent" value="287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
@@ -564,10 +564,10 @@
     <entry file="file://$PROJECT_DIR$/src/lanou/MianClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
           </folding>
         </state>
       </provider>
